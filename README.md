@@ -17,3 +17,4 @@ Database: PostgreSQL
 Query Language: SQL
 Dataset: Netflix Movies and TV Shows (netflix_titles.csv)
 Key SQL Concepts: SELECT, WHERE, GROUP BY, ORDER BY, aggregate functions, JOINs, subqueries, CTEs, CASE statements, and date functions.
+![Netflix logo](https://github.com/sarveshgaur976-arch/netflix_sql_project/blob/main/logo.png)
